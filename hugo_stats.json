@@ -31,6 +31,7 @@
       "strong",
       "style",
       "summary",
+      "sup",
       "svg",
       "title",
       "ul"
@@ -71,6 +72,7 @@
       "profile_inner",
       "share-buttons",
       "social-icons",
+      "tag-entry",
       "terms-tags",
       "title",
       "toc",
