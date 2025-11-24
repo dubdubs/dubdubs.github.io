@@ -7,10 +7,12 @@
       "br",
       "button",
       "circle",
+      "details",
       "div",
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "html",
@@ -26,14 +28,18 @@
       "path",
       "script",
       "span",
+      "strong",
       "style",
+      "summary",
       "svg",
       "title",
       "ul"
     ],
     "classes": [
       "active",
+      "anchor",
       "breadcrumbs",
+      "details",
       "entry-content",
       "entry-footer",
       "entry-header",
@@ -42,6 +48,7 @@
       "entry-link",
       "footer",
       "header",
+      "inner",
       "list",
       "logo",
       "logo-switches",
@@ -51,6 +58,7 @@
       "not-found",
       "page-header",
       "paginav",
+      "post-content",
       "post-entry",
       "post-footer",
       "post-header",
@@ -65,15 +73,20 @@
       "social-icons",
       "terms-tags",
       "title",
+      "toc",
       "top-link"
     ],
     "ids": [
+      "get-in-touch",
       "menu",
       "moon",
       "sun",
       "theme-toggle",
       "top",
-      "top-link"
+      "top-link",
+      "welcome-to-my-blog",
+      "whats-on-the-blog",
+      "who-am-i"
     ]
   }
 }
