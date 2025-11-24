@@ -1,6 +1,3 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = git@github.com:adityatelange/hugo-PaperMod.git
-[submodule "public/js/lunr.js"]
-	path = public/js/lunr.js
-	url = git@github.com:olivernn/lunr.js.git
