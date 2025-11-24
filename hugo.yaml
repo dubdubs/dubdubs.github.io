@@ -1,0 +1,128 @@
+baseURL: "https://dubdubs.github.io/"
+title: "My Tech Blog"
+theme: "PaperMod"
+
+# Basic Configuration
+languageCode: "en-US"
+defaultContentLanguage: "en"
+hasCJKLanguage: false
+
+# Multi-language Configuration
+languages:
+  en:
+    languageName: "English"
+    title: "My Tech Blog"
+    weight: 1
+
+# Site Parameters
+params:
+  # Homepage Configuration
+  homeInfoParams:
+    Title: "Welcome to My Blog"
+    Content: >
+      This is where I document my technical learning journey, project experiences, and life reflections.
+      Focused on software development, system architecture, and technical management.
+
+  # Profile Mode
+  profileMode:
+    enabled: true
+    title: "Tech Explorer"
+    subtitle: "Code | Thinking | Sharing"
+    imageUrl: "/images/avatar.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "My Avatar"
+
+  # Social Links
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/dubdubs"
+
+  # Article Page Configuration
+  showToc: true
+  TocOpen: true
+  showReadingTime: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  showPostNavLinks: true
+  showShareButtons: true
+
+  # Comment System (Optional)
+  comments: false
+  # disqusShortname: "your-disqus-shortname"  # Enable Disqus
+
+  # Analytics (Optional)
+  # googleAnalytics: "G-XXXXXXXXXX"
+  # plausibleAnalytics: "your-domain.com"
+
+  # Special Features
+  assets:
+    favicon: "/favicon.ico"
+    # Enable instant.page preloading
+    instantpage: false
+
+  # Theme Style
+  defaultTheme: auto  # auto | light | dark
+  displayFullLangName: true
+
+  # Cover Image Configuration
+  cover:
+    hidden: true      # Hide cover globally
+    hiddenInList: true # Hide cover in lists
+    hiddenInSingle: true # Hide cover in single posts
+
+# Menu Configuration
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "/posts/"
+      weight: 10
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 20
+    - identifier: "categories"
+      name: "Categories"
+      url: "/categories/"
+      weight: 30
+    - identifier: "archive"
+      name: "Archive"
+      url: "/archive/"
+      weight: 40
+    - identifier: "search"
+      name: "Search"
+      url: "/search/"
+      weight: 50
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 60
+
+# Output Formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Pagination Settings
+pagination:
+  size: 10
+  path: "page"
+
+# Taxonomy Settings
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
+
+# Build Settings
+build:
+  buildStats:
+    enable: true
+  useResourceCacheWhen: fallback
+
+# Security Headers
+security:
+  enable: true
