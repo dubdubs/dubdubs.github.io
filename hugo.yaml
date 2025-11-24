@@ -28,7 +28,7 @@ params:
     enabled: true
     title: "Tech Explorer"
     subtitle: "Code | Thinking | Sharing"
-    imageUrl: "/images/avatar.jpg"
+    imageUrl: "/images/dubdub.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "My Avatar"
