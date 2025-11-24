@@ -6,21 +6,22 @@
     <description>Recent content on My Tech Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Nov 2025 15:30:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 17:39:12 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Mon, 24 Nov 2025 15:30:45 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
-      <description></description>
+      <title>Archive</title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Mon, 24 Nov 2025 17:39:12 +0800</pubDate>
+      <guid>http://localhost:1313/archive/</guid>
+      <description>&lt;p&gt;This page contains all the articles in the blog, grouped by year and month.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 24 Nov 2025 15:04:20 +0800</pubDate>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog!&lt;/h2&gt;
+&lt;p&gt;This is the first post in my new blog. I will be sharing my thoughts on programming, technology, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
