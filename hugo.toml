@@ -1,0 +1,7 @@
+baseURL = 'https://dubdubs.github.io/'
+languageCode = 'en-us'
+title = 'Welcome to DUBDUB Site'
+theme = 'PaperMod'
+
+[params]
+  description = 'A simple description for the site'
