@@ -13,7 +13,7 @@ I¡¯m a passionate engineer with a background in both hardware and software dev
 
 Beyond technology, I also have a wide range of interests, including travel, reading, and health. This blog aims to blend these interests together, providing you with useful information and inspiration.
 
-### What¡¯s on the Blog?
+### What¡'s on the Blog?
 
 My blog covers a variety of topics, including:
 - **Programming & Development**: Topics like C++, Architecuture, and more.
