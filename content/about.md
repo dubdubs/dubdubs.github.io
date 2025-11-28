@@ -13,7 +13,7 @@ I¡¯m a passionate engineer with a background in both hardware and software dev
 
 Beyond technology, I also have a wide range of interests, including travel, reading, and health. This blog aims to blend these interests together, providing you with useful information and inspiration.
 
-### What¡'s on the Blog?
+### What's on the Blog?
 
 My blog covers a variety of topics, including:
 - **Programming & Development**: Topics like C++, Architecuture, and more.
@@ -25,7 +25,7 @@ My blog covers a variety of topics, including:
 
 If you find my blog interesting or have any questions or collaboration ideas, feel free to contact me through:
 
-- Email: dubdub1987@gmail.com
+- Email: dubdublan1987@gmail.com
 
 Thank you for visiting my blog! I hope you find valuable content here and that we can engage in some great discussions and learning together.
 
